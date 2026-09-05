@@ -28,7 +28,7 @@ I create sustainability-focused data tools that connect ESG, climate analysis, a
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-upasana--sen-blue?style=flat&logo=linkedin)](https://linkedin.com/in/upasana-sen)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-upasana--sen--693830104-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/upasana-sen-693830104/)  
 [![Website](https://img.shields.io/badge/Portfolio-upasanasen.github.io-green?style=flat&logo=github)](https://upasanasen.github.io)  
 [![Email](https://img.shields.io/badge/Email-upasana19sen95%40gmail.com-red?style=flat&logo=gmail)](mailto:upasana19sen95@gmail.com)
 
