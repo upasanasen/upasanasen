@@ -1,9 +1,9 @@
 # Hi, I'm Upasana Sen 👋
 
-🌍 Sustainability Project Manager & ESG Data Specialist  
-📍 Lund, Sweden  
-🎓 MSc Environmental Studies — Lund University  
-🎓 MSc Project Management — EAE Business School  
+Sustainability Project Manager & ESG Data Specialist  
+Lund, Sweden  
+MSc Environmental Studies — Lund University  
+MSc Project Management — EAE Business School  
 
 ---
 
@@ -13,13 +13,13 @@ I create sustainability-focused data tools that connect ESG, climate analysis, a
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 **Sustainability & ESG**  
 `Carbon Accounting` `CSRD` `EU Taxonomy` `LCA` `TCFD` `GHG Protocol` `ESG Reporting`
 
 **AI & Data**  
-`Python` `Pandas` `NumPy` `Power BI` `Streamlit` `Data Visualisation`
+`Python` `Pandas` `NumPy` `Power BI` `Streamlit` `Data Visualisation` 
 
 **Project Management**  
 `Agile` `Scrum` `Backlog Management` `Stakeholder Management` `PRINCE2`
@@ -34,4 +34,4 @@ I create sustainability-focused data tools that connect ESG, climate analysis, a
 
 ---
 
-*Open to Sustainability PM, AI-ESG, and Climate Data roles in Sweden and the EU*
+
