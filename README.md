@@ -1,4 +1,3 @@
-````markdown
 # Hi, I'm Upasana Sen 👋
 
 Sustainability Project Manager & ESG Data Specialist
@@ -81,4 +80,3 @@ RACI matrix builder :milestone, 2026-05-10, 0d
 [Email](mailto:upasana19sen95@gmail.com)
 
 ---
-````
